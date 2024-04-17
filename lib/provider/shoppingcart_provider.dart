@@ -1,3 +1,9 @@
+//Ruth Djusthine E. Tenifrancia
+//U3L
+
+//dart file that contains all the function that
+//are to be done in the shopping cart
+
 import 'package:flutter/material.dart';
 import '/model/Item.dart';
 

@@ -1,3 +1,8 @@
+//Ruth Djusthine E. Tenifrancia
+//U3L
+
+//main file (responsible for routing)
+
 import 'package:flutter/material.dart';
 import 'screen/MyCart.dart';
 import 'screen/MyCatalog.dart';

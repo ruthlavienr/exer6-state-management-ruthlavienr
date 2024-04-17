@@ -1,3 +1,8 @@
+//Ruth Djusthine E. Tenifrancia
+//U3L
+
+//dart file for catalog page
+
 import 'package:flutter/material.dart';
 import '../model/Item.dart';
 import 'package:provider/provider.dart';
